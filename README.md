@@ -1,8 +1,12 @@
 # Portfolio
 ## Profile
-I am passionate about data and the methods one can use to employ meaningful decision making. I have completed my Bachelor Degree in Business Science, which has given me the foundation of understanding how companies report on their financial data in accordance with the IFRS and IAS reporting standards. I strive to utilize my foundational knowledge of Accounting and pair it with my newly aquired skills of implementing machine learning models, to better add value to a boards strategic decision making abilities.
+I am passionate about data and the methods one can use to employ meaningful decision making. 
 
-I believe Data is more than just numbers housed in a warehouse. Data helps define trends and aid a company to make certain decisions that revolve around those trends. I aim to add value to my employer through a team driven process whereby we perform efficient actions that have been built upon various data science techniques and critical analysis. 
+I have completed my Bachelor Degree in Business Science, which has given me the foundation of understanding how companies report on their financial data in accordance with the IFRS and IAS reporting standards. I strive to utilize my foundational knowledge of accounting and pair it with my newly aquired skills of implementing machine learning models, to better add value to a boards strategic decision making abilities.
+
+I believe Data is more than just numbers housed in a warehouse. Data helps define trends and aid a company to make certain decisions that revolve around those trends. 
+
+I aim to add value to my employer through a team driven process whereby we perform efficient actions that have been built upon various data science techniques and critical analysis. 
 
 ## Contact Details
 Name: Christopher Myburgh
@@ -17,7 +21,7 @@ LinkedIn: https://www.linkedin.com/in/christopher-myburgh-90685022b/
 #### Data Analysis:
   1. Multiple Linear Regression Analysis
   2. Decision Trees and Random Forests
-  3. Kmeans and Agglomerative Clustering
+  3. K-means and Agglomerative Clustering
   4. Principle Component Analysis
   5. Convolutional Neural Networks
   6. Recurrent Neural Networks
@@ -29,7 +33,7 @@ LinkedIn: https://www.linkedin.com/in/christopher-myburgh-90685022b/
   4. Orange
   
 #### Software
-Python, Anaconda Enviroment, Excel and MS Office, Libre, Tensorflow, Scikit Learn, Pandas, Numpy, SQL and MySQL, MATLab.
+Python, Anaconda Environment, Excel and MS Office, Libre, Tensorflow, Scikit Learn, Pandas, Numpy, SQL and MySQL, MATLab.
 
 #### Soft Skills
 Team orientated; logical; report writing; hard working; perservering and determined.
